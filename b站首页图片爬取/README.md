@@ -45,4 +45,4 @@ if __name__ == '__main__':
     main()
 ```
 怕渠道的图片地址
-![1600262085949](https://github.com/S1mple-cyber/Crawler-applet/blob/master/b%E7%AB%99%E9%A6%96%E9%A1%B5%E5%9B%BE%E7%89%87%E7%88%AC%E5%8F%96/B%E7%AB%99%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80.PNG)
+![image](https://github.com/S1mple-cyber/Crawler-applet/blob/master/b站首页图片爬取/B站图片地址.PNG)
