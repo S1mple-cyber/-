@@ -44,5 +44,5 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-怕渠道的图片地址
-![image](https://github.com/S1mple-cyber/Crawler-applet/blob/master/b站首页图片爬取/B站图片地址.PNG)
+b站的图片地址
+![image](https://github.com/S1mple-cyber/Crawler-applet/blob/master/b站首页图片爬取/B站图片地址.jpg)
